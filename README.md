@@ -16,15 +16,30 @@ Location: Bristol, UK.
 
 Welcome to my second readme file and my second website project.
 
-This project is represening an online school for music and piano practice, named Keytarschool. The name is a mixture of guitar and keyboard as keytar because of the look of the instrument and the hero image potrays a girl playing the keytar on the landing page of the website.
+This project is represening an online school for music and piano practice, named Keytarschool. The name is a mixture of guitar and keyboard creating the "keytar" name, because of the look of the instrument and the hero image potrays a girl playing the keytar on the landing page of the website.
 
-The projects objective is to make a front end - interactive website with HTML5, CSS3 and JS(ES6) with a focus on making the website mobile phone friendly.
+The projects objective is to make a front end - interactive website with HTML5, CSS3 and JS(ES6) with a focus on making the website mobile phone user friendly.
 
 Note * - * the forms on the website have no backend, therefore all the entered data (name,email) won't be stored and actual registration is not possible. *
 
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
 Deployed link - []
+
+# User Experience (UX)
+
+- Who is this website for ?
+
+The target audience are people who would like to learn music theory and practice/interact with digital piano.
+
+- Why people visit the website ?
+
+Visitors of the website can register and become a member, get lessons, play music and learn a new skill.
+
+- About the website:
+
+The website is a presentation a fictional online music school that teaches the skills to play the key based instruments such as piano/synthesizer/keytar.
+
 
 # Technologies Used :
 
