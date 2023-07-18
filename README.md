@@ -81,7 +81,7 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 # Technologies Used 
 
-## Languages Used :
+### Languages Used :
 
 -  HTML5 [https://developer.mozilla.org/en-US/docs/Glossary/HTML5]
 -  CSS3 [https://developer.mozilla.org/en-US/docs/Web/CSS]
