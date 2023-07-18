@@ -40,6 +40,31 @@ Visitors of the website can register and become a member, get lessons, play musi
 
 The website is a presentation a fictional online music school that teaches the skills to play the key based instruments such as piano/synthesizer/keytar.
 
+### First time visitor goals :
+
+As a first time visitor, I want information about the features of the website, pricing of subscription and what is included in the product package and to persuade people of interest in music to join the website and  help them develop a new skill.
+
+- At the top-left of the page the logo of the school can be found and at the top-right the menu options are available,
+which makes it easy to navigate through the pages of the site.
+
+- At the bottom of every page, in the footer section, the user can select the social media pages and can follow the school, share posts with others or raise awarness of the existence of the community and website. 
+
+- The user while scrolls down the pages of the site, the menu bar is fixed and follows the users page view, so tha navigation across the web site is easy and accessible.
+
+- On the index page, the first time user has a review section, where existing members share their experience about the site, which further makes the product transparent and should further encourage registration.
+
+- The first time user can send a mail/message or further questions to the owner of the school by filling out the form on the "Contact" page. This form can be used by existing members as well to contact customer service.
+
+- The first time user has access to a Frequently Asked Questions (F.A.Q.) section where gathering more information is possible before making a decision to join the online school.
+
+- After the Frequently Asked Questions (F.A.Q.) section, the first time user can choose from three subscription options. In order to complete the subscription, the user will be offered to register in order to join the school or cancel the subscription.
+
+- On the login page there are two forms available to choose from, where the first form is a registry form for new members and by clicking the "Login" text at the bottom of the form, the existing member can access the login section and enter the website.
+
+### Frequent user goals :
+
+As a frequent user/member I want to have a interactive piano with built in metronome so practice is possible, learning the notes is easy, with the function to hide and show notes on the piano the user can practice the name and location of the notes on the instrument.
+
 # Testing 
 
 ## W3C Validator
