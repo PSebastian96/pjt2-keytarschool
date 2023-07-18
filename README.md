@@ -40,6 +40,13 @@ Visitors of the website can register and become a member, get lessons, play musi
 
 The website is a presentation a fictional online music school that teaches the skills to play the key based instruments such as piano/synthesizer/keytar.
 
+# Testing 
+
+## W3C Validator
+
+### CSS validator results:
+
+### HTML validator results:
 
 # Technologies Used :
 
