@@ -45,9 +45,9 @@ The website is a presentation a fictional online music school that teaches the s
 
 ## Languages Used :
 
--  HTML5 []
--  CSS3 []
--  JavaScript []
+-  HTML5 [https://developer.mozilla.org/en-US/docs/Glossary/HTML5]
+-  CSS3 [https://developer.mozilla.org/en-US/docs/Web/CSS]
+-  JavaScript [https://developer.mozilla.org/en-US/docs/Web/JavaScript]
 
 ### Environment Used
 
@@ -55,7 +55,7 @@ The website is a presentation a fictional online music school that teaches the s
     - Was used to store the repository and files for the project.
 
 2. [Gitpod] - (https://www.gitpod.io)
-    - was used to code and edit the project.
+    - was used to code and edit code for the project.
 
 # Content sources :
 
