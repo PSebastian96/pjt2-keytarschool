@@ -105,10 +105,10 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 ### Environment Used
 
-1. [Github] - (https://github.com)
+1. Github - (https://github.com)
     - Was used to store the repository and files for the project.
 
-2. [Gitpod] - (https://www.gitpod.io)
+2. Gitpod - (https://www.gitpod.io)
     - was used to code and edit code for the project.
 
 # Content sources 
@@ -140,9 +140,9 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 ## Code sources and inspirations :
 
-- https://www.codementor.io/@andrzejgorgonag/let-s-write-a-piano-chord-visualization-application-a-vanilla-js-beginner-friendly-tutorial-part-ii-1trq96zr6o
+-  codementor.io [https://www.codementor.io/@andrzejgorgonag/let-s-write-a-piano-chord-visualization-application-a-vanilla-js-beginner-friendly-tutorial-part-ii-1trq96zr6o]
 
-- https://codepen.io/gabrielcarol/pen/rGeEbY
+- codepen.io [https://codepen.io/gabrielcarol/pen/rGeEbY]
 
 - Ania Kubow youtube channel - [https://www.youtube.com/watch?v=mjmh093Sucg]
 
