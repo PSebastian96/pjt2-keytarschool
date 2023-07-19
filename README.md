@@ -225,6 +225,8 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 - Box icon [https://boxicons.com]
 
+- Remix icon [https://remixicon.com]
+
 - Google fonts [https://fonts.google.com]
 
 ## Image sources :
