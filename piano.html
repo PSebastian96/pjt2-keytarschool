@@ -38,7 +38,27 @@
   <div id="piano-wrap-container">
       <div id="piano-container">
          <div id="top-piano">
-            
+             <!--Metronom section-->
+             <div id="metronome" class="border">
+                <h4 class="section-title">Metronome</h4>
+                <div id="metro-content">
+                    <div id="tempo">
+                        <h5>Tempo(BPM)</h5>
+                        <div class="tempo-btn" id="decrease-tempo">-</div>
+                        <input type="number" min="60" max="180" value="90" id="tempo-input">
+                        <div class="tempo-btn" id="increase-tempo">+</div>
+                    </div>
+                    <div id="play-pause">PLAY</div>
+                    <div id="time-signature">
+                        <h5>Beats/Measure</h5>
+                        <input type="number" min="1" max="6" value="4" id="measure-input">
+                        <div id="btn-container">
+                          <div class="measure-btn" id="increase-measure">+</div>
+                          <div class="measure-btn" id="decrease-measure">-</div>
+                        </div>
+                    </div>    
+                </div>
+             </div>
          </div>
       </div>
   </div>
