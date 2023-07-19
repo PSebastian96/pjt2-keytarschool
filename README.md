@@ -139,7 +139,20 @@ On the top-right side the user can adjust the preset settings of the piano, whic
 
 ### HTML validator results:
 
+1. index.html
+<img width="872" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/eb5dcb41-7e43-41b1-bb6e-be33b08a91bd">
 
+2. piano.html
+<img width="873" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/cad5728e-5ea9-41c9-817d-2fb119d53cc6">
+
+3. subscribe.html
+<img width="879" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/610c7132-3504-41bd-82ff-b4481be1283e">
+
+4. contact.html
+<img width="871" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/9e7078fc-a80e-45dc-b944-d689004ecc4b">
+
+5. login.html
+<img width="877" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/ee1cb35d-2f28-4f8e-b2e0-f121cf3db6c3">
 
 ## Lighthouse testing (Mobile)
 
