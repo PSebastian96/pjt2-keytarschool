@@ -157,6 +157,10 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 <img width="373" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/83667bf5-0755-4cb1-8500-3f2558e09a75">
 
+### Further Testing
+- The Website was tested on Google Chrome, Microsoft Edge, Opera and Mozilla browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop and Samsung Galaxy S10+ , Nokia 4.2 .
+
 # Technologies Used 
 
 ### Languages Used :
