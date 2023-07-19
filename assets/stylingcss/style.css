@@ -1127,3 +1127,63 @@ cursor: pointer;
 .log-reg-container {
     padding-top: 5rem;
 }
+
+/*------------------------- Galaxy Fold */
+@media (max-width: 280px) {
+    
+    #logo {
+        padding: 0;
+    }
+
+    #hero-img img {
+        width: 40vh;
+        height: auto;
+        margin-left: 0.25rem;
+        margin-bottom: 0.75rem;
+    }
+
+    #buttons a {
+        display: flex;
+    }
+
+    #monster-img img {
+        width: 30vh;
+        height: 30vh;
+        margin: 2rem;
+    }
+
+    #hero-txt h1 {
+        font-size: xxx-large;
+    } 
+
+    #hero-txt #sub-txt {
+        font-size: xx-large;
+        text-align: center;
+        padding: 0;
+    }
+
+    .ftrs-txt {
+        width: 100%;
+        text-align: center;
+        font-size: x-large;
+    }
+    #rev-img {
+        width: 20vh;
+        height: 20vh;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+    .log-reg-wrapper {
+       margin-top: 4rem;
+      }
+      .slider-btn {
+        height: 1.2em;
+        width: 1.2em;
+     }
+     #next {
+        right: -0.8em;
+     }
+     #prev {
+         left: -0.8em;
+     }
+}
