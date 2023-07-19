@@ -534,3 +534,107 @@ img {
     background: azure;
     color: #5056be; 
 }
+
+/* ------------------ FAQ page*/
+
+#faq-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(122, 52, 188);
+    padding: 2.5rem;
+}
+
+#accordion-wrapper {
+    display: flex;
+    max-width: 1000px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    gap: 0.1rem;
+    background: rgb(255, 255, 255);
+    border-radius: 25px;
+    padding: 45px 90px 45px 60px;
+}
+
+#accordion-wrapper #img-box {
+    height: 360px;
+    width: 300px;
+}
+
+#img-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+}
+
+#accordion-wrapper #accordion-txt {
+    width: 50%;
+}
+
+#faq-title {
+    text-align: center;
+    color: #af79f6
+}
+
+#accordion-wrapper #accordion-txt #faq-title {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+#accordion-wrapper #accordion-txt #faq-txt {
+    margin-top: 25px;
+}
+
+#accordion-wrapper #accordion-txt li {
+    list-style: none;
+    cursor: pointer;
+}
+
+#accordion-txt li .faq-arrow {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+#accordion-txt li .faq-arrow .question {
+    font-size: 18px;
+    font-weight: 900;
+    color: #595959;
+    transition: all 0.3s ease;
+}
+
+#accordion-txt li .faq-arrow .arrow {
+    font-size: 20px;
+    color: #595959;
+    transition: all 0.3s ease;
+}
+
+.showAnswer .arrow {
+    transform: rotate(-180deg);
+}
+
+#accordion-txt li:hover .faq-arrow .question,
+#accordion-txt li:hover .faq-arrow .arrow {
+ color: #af79f6;
+}
+#accordion-txt li .line {
+    display: block;
+    height: 2px;
+    width: 100%;
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+#accordion-txt p {
+    width: 92%;
+    color: #595959;
+    font-size: 15px;
+    font-weight: 600;
+    display: none;
+}
+
+#accordion-txt .showAnswer p{
+    display: block;
+}
