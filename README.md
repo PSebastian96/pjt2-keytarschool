@@ -69,6 +69,28 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 # Design
 
+## Abstract :
+
+While designing the website, I had in mind 2 colours Purple and Green, as these colours make the Hero image "Keytar Girl".
+The website revolves around the combination of these colours and their different shades.
+
+According to some studies the purple is associated with the following : promotes harmony of the mind and the emotions, contributing to mental balance and stability, peace of mind, a link between the spiritual and the physical worlds, between thought and activity. 
+
+While the colour green is associated with : a feeling of abundance and is associated with refreshment and peace, rest/ regenaration and security.
+
+The logo is using "Kablammo" font, which is provided by using Google fonts API. This font style is wacky and out of ordrinary giving the websites name/logo a attractive look, which is meant to please the aesthetic visual senses of the visitor.
+
+Also on the menu section, the current visited page is highlighted with the colour green and border bottom, to indicate to the user on which page they are currenlty visiting, which further contributes to positive and easy website navigation.
+
+## Piano : 
+
+The goal was to design a piano, that resembles real life electric piano.
+The top side of the piano is divided into to sections 1. Metronome on the top left and 2. Presets on the top right.
+
+On the top-left side the user can interact with a functioning metronome to practice timing and rhythm, which includes a Beats Per Minute (BPM) adjusting setting that goes from 60BPM to 180 BPM, following with a "START" and "STOP" button for the clicking sound of the metronome and finishing by a Beat Per Measure setting, that goes from 1 beat per measure up to 6 beats per measure.
+
+On the top-right side the user can adjust the preset settings of the piano, which are the volume of the piano and hide/show option for the piano key names.
+
 ## Wireframing :
 
 ### Large screen view : 
