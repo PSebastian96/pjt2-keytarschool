@@ -1,0 +1,49 @@
+/*-------------------------- Main containers*/
+
+* {
+    margin: 0;
+}
+
+#piano-wrap-container {
+    background: #520054;
+    padding: 12rem 0rem 18rem 0;
+}
+
+#piano-container {
+    padding: 10rem 5rem 11.5rem 5rem;
+    display: flex;
+    flex-direction: column;
+   
+    background: #520054;
+}
+
+#top-piano {
+    display: flex;
+    justify-content: space-between;
+    height: 9rem;
+    width: auto;
+}
+
+.section-title {
+    margin-top: 0.25rem;
+    text-align: center;
+    color: azure;
+}
+
+.border {
+    border: 2px solid black;
+}
+
+:root {
+    --white-key-width: 48px;
+    --white-key-height: 200px;
+    --black-key-width: 30px; 
+    --black-key-height: 120px; 
+  }
+  
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
