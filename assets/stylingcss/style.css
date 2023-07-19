@@ -1015,4 +1015,115 @@ cursor: pointer;
         margin-right: auto;
         display: block;
     }
+}
+
+/*------------------------- Medium and phone screens*/
+
+@media (max-width: 990px) {
+    
+    #menu-icon {
+        display: block;
+    }
+    
+    #navlist {
+        position: absolute;
+        top: 100%;
+        right:-110%;
+        width: 50vh;
+        height: 25vh;
+        background: rgba(152, 39, 218, 0.9);
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        padding: 50px 20px;
+        transition: all 0.35s ease;
+    }
+    
+    #navlist a {
+        display: block;
+        margin-left: 0;
+        margin: 7px 0;
+
+    }
+    
+    #navlist.open {
+        right: 0;
+    }
+
+    .slide-section {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 70px;
+    }
+    .log-reg-container {
+        padding: 2rem 0rem 2rem 0rem;
+      }
+} 
+
+@media (max-width: 820px) {
+   
+    #accordion-wrapper {
+    flex-direction: column;
+   }
+  
+   #accordion-wrapper #img-box {
+    height: 20vh;
+    width: 20vh;
   }
+  #accordion-wrapper #accordion-txt {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 700px) and (min-width: 350px) {
+    #monster-img img {
+        width: 35vh;
+        height: 35vh;
+    }
+}
+@media screen and (max-width: 660px) {
+    #hero-img img {
+        width: 40vh;
+        height: auto;
+        margin-left: 0.25rem;
+        margin-right: auto;
+        display: block;
+    }
+
+    #navlist {
+        height: max-content;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+   #hero-txt #sub-txt {
+        font-size: xxx-large;
+        text-align: center;
+        padding: 0;
+    }
+}
+
+@media (min-width: 375px) {
+    
+    #logo {
+        padding: 0;
+    }
+    
+    #hero-txt #sub-txt{
+      padding: 0;
+    }
+
+    .ftrs-txt {
+        width: 100%;
+        text-align: center;
+        font-size: xx-large;
+    }
+}
+
+.log-reg-container {
+    padding-top: 5rem;
+}
