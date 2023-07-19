@@ -150,3 +150,60 @@ input::-webkit-inner-spin-button {
     margin-left: 4px;
     margin-right: 4px;
 }
+
+/*-------------------------- Presets */
+#presets{
+    flex-grow: 1;
+    background: purple;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#preset-content {
+    margin: 0.5rem;
+    height: 5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#volume-slider {
+    accent-color: rgb(222, 103, 222);
+    outline: none;
+    margin-bottom: 0.25rem;
+}
+
+#volume-slider input{
+  transform: translateY(18%);
+}
+
+#keys-reveal input {
+    appearance: none;
+    background: #4f0651;
+    border-radius: 1.5rem;
+    width: 40px;
+    height: 18px;
+    position: relative;
+    transform: translateY(12%);
+    outline: none;
+}
+
+#keys-reveal input::before {
+    content: "";
+    height: 1.1rem;
+    width: 1rem;
+    position: absolute;
+    background: #c02bc0;
+    border-radius: inherit;
+}
+
+#keys-reveal input:checked:before {
+    left: 25px;
+    background: #fa78fa;
+} 
+
+.preset-txt {
+    color: rgb(176, 182, 182);
+}
