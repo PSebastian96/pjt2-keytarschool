@@ -137,13 +137,19 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 2. piano.html
 
+<img width="360" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/5b44b625-0ec6-4eaf-982b-7dc96bb6c4a4">
 
 3. subscribe.html
 
+<img width="371" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/61bfb85d-0096-40e4-807f-e35b6246b117">
+
 4. contact.html
+
+<img width="367" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/dd037cef-a637-4c09-bdd8-469fa8527ee4">
 
 5.login.html
 
+<img width="373" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/83667bf5-0755-4cb1-8500-3f2558e09a75">
 
 # Technologies Used 
 
