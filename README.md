@@ -86,8 +86,7 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 ## Site map :
 
-- Visual paradigm - [https://online.visual-paradigm.com/] 
-screenshot here
+
 
 ## Visuals :
 
@@ -136,13 +135,9 @@ screenshot here
 
 # Content sources 
 
-## Wireframing :
+## Wireframing & Site Map :
 
 - Diagrams.net [https://app.diagrams.net]
-
-## Site map :
-
-- Visual paradigm - [https://online.visual-paradigm.com/] 
 
 ## Icon and font sources :
 
