@@ -169,14 +169,14 @@ input::-webkit-inner-spin-button {
     align-items: center;
 }
 
-#volume-slider {
+#volume-slider input{
     accent-color: rgb(222, 103, 222);
     outline: none;
     margin-bottom: 0.25rem;
 }
 
 #volume-slider input{
-  transform: translateY(18%);
+  transform: translateY(17%);
 }
 
 #keys-reveal input {
