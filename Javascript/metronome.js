@@ -26,6 +26,7 @@ let isRunning = false;
 decreaseTempoBtn.addEventListener('click', () => {
     if (bpm <= 60) { 
     alert('60 BPM is minimum!');
+    console.log("reached 60 BPM minimum");
     return;
 };
     bpm--;
