@@ -16,3 +16,63 @@ const playStopBtn = document.getElementById('play-pause');
 // audio source of the metronome clicks
 const click1 = new Audio('assets/metronome-sound/click1.wav');
 const click2 = new Audio('assets/metronome-sound/click2.wav');
+
+let bpm = 90;
+let beat = 4
+let count = 0;
+let isRunning = false;
+
+//Tempo section (Increase and decrease button functionality)
+decreaseTempoBtn.addEventListener('click', () => {
+    if (bpm <= 60) { 
+    alert('60 BPM is minimum!');
+    return;
+};
+    bpm--;
+    tempoInput.value = bpm;
+    metronome.timeInterval = 60000 / bpm;
+});
+
+increaseTempoBtn.addEventListener('click', () => {
+    if (bpm >= 180) { 
+        alert('180 BPM is maximum!');
+        return;
+    };
+    bpm++;
+    tempoInput.value = bpm;
+    metronome.timeInterval = 60000 / bpm;
+});
+
+// Beats per measure section (Increase and decrease button functionality)
+decreaseBeats.addEventListener('click', () => {
+    while (beat <= 1) { 
+    alert('1 Beat Per Measure is minimum!');
+    return;
+};
+    beat--;
+    measureInput.value = beat;
+    count = 0;
+});
+
+increaseBeats.addEventListener('click', () => {
+    while (beat >= 6) { 
+        alert('6 Beat Per Measure is maximum!');
+        return;
+    };
+    beat++;
+    measureInput.value = beat;
+    count = 0;
+});
+
+// play and stop function
+playStopBtn.addEventListener('click', () => {
+    if (!isRunning) {
+        metronome.start();
+        isRunning = true;
+        playStopBtn.textContent = "STOP";
+    } else {
+        metronome.stop();
+        isRunning = false;
+        playStopBtn.textContent = "START";
+    }
+});
