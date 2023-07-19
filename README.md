@@ -78,7 +78,7 @@ According to some studies the purple is associated with the following : promotes
 
 While the colour green is associated with : a feeling of abundance and is associated with refreshment and peace, rest/ regenaration and security.
 
-The logo is using "Kablammo" font, which is provided by using Google fonts API. This font style is wacky and out of ordrinary giving the websites name/logo a attractive look, which is meant to please the aesthetic visual senses of the visitor.
+The logo is using "Kablammo" font, which is provided by using Google fonts API. This font style is wacky and out of ordrinary giving the websites name/logo an attractive look, which is meant to please the aesthetic visual senses of the visitor.
 
 Also on the menu section, the current visited page is highlighted with the colour green and border bottom, to indicate to the user on which page they are currenlty visiting, which further contributes to positive and easy website navigation.
 
