@@ -37,6 +37,7 @@ decreaseTempoBtn.addEventListener('click', () => {
 increaseTempoBtn.addEventListener('click', () => {
     if (bpm >= 180) { 
         alert('180 BPM is maximum!');
+        console.log("reached max limit of 180 bpm");
         return;
     };
     bpm++;
@@ -48,6 +49,7 @@ increaseTempoBtn.addEventListener('click', () => {
 decreaseBeats.addEventListener('click', () => {
     while (beat <= 1) { 
     alert('1 Beat Per Measure is minimum!');
+    console.log("1 beat minimum");
     return;
 };
     beat--;
@@ -58,6 +60,7 @@ decreaseBeats.addEventListener('click', () => {
 increaseBeats.addEventListener('click', () => {
     while (beat >= 6) { 
         alert('6 Beat Per Measure is maximum!');
+        console.log("6 beats maximum");
         return;
     };
     beat++;
