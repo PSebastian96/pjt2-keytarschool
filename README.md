@@ -193,12 +193,16 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 <img width="673" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/7429bba2-2599-45e5-8b8e-0ac9df70672c">
 
-- Debugging the metronome : 
+### Debugging the metronome : 
 
 <img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/4309d479-2bc7-4c47-878e-626d30f77588">
 
-The problem was a mixture of incorrect syntax and import error from the timer.js to metronome.js, the metronom script could not access the timing/beat from timer.js.
-The solution was to add the correct syntax and connect timer.js with metronome.js by adding the attribute [type = "module"]to the script tag in piano.html file.
+- The problem was a mixture of incorrect syntax and import error from the timer.js to metronome.js, the metronome script could not access the timing/beat from timer.js. The solution was to add the correct syntax and connect timer.js with metronome.js by adding the attribute [type = "module"]to the script tag in piano.html file.
+
+### Known bugs :
+
+- Opera browser is not rendering the css property [accent-color] on the volume input range, thus making it look dull in the browser, while chrome loads it with no issues.
+- Depending on the browser loading speed, sometimes the piano sound is delayed after a key is pressed.
 
 ### Further Testing
 - The Website was tested on Google Chrome, Microsoft Edge, Opera and Mozilla browsers.
