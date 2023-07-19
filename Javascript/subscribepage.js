@@ -14,3 +14,24 @@ for ( i = 0; i < faqLi.length; i++) {
      clickedList.classList.toggle("showAnswer");
     });
 };
+
+// subscription section
+let modal = document.getElementById("myModal");
+let buttons = document.querySelectorAll(".sub-btn");
+let span = document.getElementsByClassName("close")[0];
+let cancelBtn = document.getElementById('cancel-btn');
+
+for (let i=0; i < buttons.length; i++) {
+  buttons[i].addEventListener('click', () => {
+    modal.style.display = "block";
+    console.log("clicked sub button");
+  })
+}
+
+cancelBtn.addEventListener('click', () => {
+  modal.style.display = "none";
+})
+
+span.onclick = function() {
+  modal.style.display = "none";
+}
