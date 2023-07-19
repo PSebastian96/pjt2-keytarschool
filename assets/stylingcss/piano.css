@@ -207,3 +207,22 @@ input::-webkit-inner-spin-button {
 .preset-txt {
     color: rgb(176, 182, 182);
 }
+
+/*-------------------------- Piano keys */
+#keys-wrapper {
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+#piano-keyboard {
+    position: relative;
+    display: flex;
+    justify-content:center ;
+    padding: 1rem;
+    margin: auto;
+    background: purple;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    user-select: none;
+}
