@@ -130,9 +130,16 @@ On the top-right side the user can adjust the preset settings of the piano, whic
 
 ### CSS validator results:
 
+1. main css styling file
+<img width="887" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/1097c0f1-abf4-40c6-abac-ad4a63b3abc3">
 
+2. piano css styling file
+<img width="882" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/b18172b0-76ba-4636-9bf4-a29a494f995f">
+<img width="891" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/6981c21e-a80d-4372-9966-16aab41aaefc">
 
 ### HTML validator results:
+
+
 
 ## Lighthouse testing (Mobile)
 
