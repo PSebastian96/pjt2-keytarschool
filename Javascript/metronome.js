@@ -76,3 +76,20 @@ playStopBtn.addEventListener('click', () => {
         playStopBtn.textContent = "START";
     }
 });
+
+function playClick() {
+    while (count === beat) {
+        count = 0;
+    }
+    if ( count === 0) {
+        count = 0;
+        click1.play();
+        click1.currentTime = 0;
+    } else {
+        click2.play();
+        click2.currentTime = 0;
+    }
+    count++;
+};
+//metronome - 60000 / bpm will give the timer in milliseconds, since the timer uses millisecond value
+const metronome = new Timer (playClick, 60000 / bpm, {immediate : true});
