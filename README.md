@@ -128,6 +128,23 @@ On the top-right side the user can adjust the preset settings of the piano, whic
 
 ### HTML validator results:
 
+## Lighthouse testing (Mobile)
+
+Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. [https://developer.chrome.com/docs/lighthouse/overview/]
+
+1. index.html
+<img width="362" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/77706dd1-b01a-43df-8c04-ec3d3f7d38bd">
+
+2. piano.html
+
+
+3. subscribe.html
+
+4. contact.html
+
+5.login.html
+
+
 # Technologies Used 
 
 ### Languages Used :
