@@ -193,6 +193,17 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 <img width="673" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/7429bba2-2599-45e5-8b8e-0ac9df70672c">
 
+- Testing the show/hide notes button :
+1. Visible (default)
+<img width="873" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/5e457997-080c-42b6-8a37-e1d5718ef594">
+
+2. Hidden
+<img width="851" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/f7750ed2-5476-4834-9040-7137fc923530">
+
+- Testing the keys if the script makes them play on click :
+
+<img width="857" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/98e95ba0-d51c-4125-9370-817eca3bcbb4">
+
 ### Debugging the metronome : 
 
 <img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/4309d479-2bc7-4c47-878e-626d30f77588">
