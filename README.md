@@ -69,7 +69,20 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 # Design
 
+## Wireframing :
+
+- Diagrams.net [https://app.diagrams.net]
+screenshot here
+
+## Site map :
+
+- Visual paradigm - [https://online.visual-paradigm.com/] 
+screenshot here
+
 ## Visuals :
+
+### Landing page : 
+
 
 # Testing 
 
