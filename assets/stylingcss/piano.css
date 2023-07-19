@@ -288,3 +288,91 @@ input::-webkit-inner-spin-button {
 .hide span {
     display: none;
 }
+
+/* responsivness  */
+@media screen and (max-width: 540px) {
+       
+    #piano-container {
+        transform: rotate(90deg);
+        max-width: 60vh;
+        max-height: 60vh;
+    }
+}
+
+@media screen and (max-width: 540px) and (min-width:390px) {
+   
+    #piano-wrap-container {
+        background: #520054;
+        padding: 12rem 0rem 18rem 0;
+        overflow: scroll;
+    }
+    
+    #piano-container {
+        width: max-content;
+        height: auto;
+        transform: rotate(90deg);
+        padding: 4rem 0 4rem 0;
+        overflow: hidden;
+        padding: 0;
+    }
+
+    #piano-keyboard {
+        width: 60vh;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    #piano-wrap-container {
+        padding: 10rem 0rem 3.5rem 0;
+        overflow: scroll;
+        background: #520054;
+    }
+    
+    #piano-container {
+        width: max-content;
+        height: auto;
+        transform: rotate(90deg);
+        padding: 3rem 0 3rem 0;
+        overflow: hidden;
+        padding: 0;
+    }
+
+    #piano-keyboard {
+        width: 60vh;
+    }
+    #metronome {
+        border-left: none;
+        border-top: none;
+    }
+
+    #presets {
+        border-top: none;
+    }
+
+    #piano-keyboard span {
+        font-size: 1rem;
+    }
+}
+
+@media screen and (max-width: 280px) {
+    
+    #piano-wrap-container {
+        overflow: scroll;
+    }
+    
+    #piano-container {
+        width: max-content;
+        height: auto;
+        transform: rotate(90deg);
+        white-space:normal;
+        margin: 7rem 0 5rem 0;
+        padding: 0;
+    }
+
+    #key-wrapper {
+        display: flex;
+    }
+    #piano-keyboard {
+        width: 60vh;
+    }
+}
