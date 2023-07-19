@@ -86,12 +86,17 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 ## Site map :
 
-
+<img width="490" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/4d68ad6f-61be-4bb6-874a-57e7c682c6a4">
 
 ## Visuals :
 
 ### Landing page : 
 
+<img width="947" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/3ecd4c0f-5918-4cce-8832-c090e4034250">
+
+### Piano page : 
+
+<img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/8d2cd06a-c2fb-49d7-8ff1-d707f2928738">
 
 # Testing 
 
