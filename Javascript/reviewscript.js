@@ -1,3 +1,35 @@
+// Reviews
+
+const reviews = [
+    {
+        name: "Keytar Player",
+        occupation: "Synth Player",
+        image: "assets/images/review1.jpg",
+        review:
+        "I like this website, it is cool and helps you learn the basics!:)"
+    },
+    {
+        name: "Keyplayer",
+        occupation: "Pianist",
+        image: "assets/images/review2.jpg",
+        review:
+        "This website helped me learn to play my first chords!"
+    },
+    {
+        name: "Keytee",
+        occupation: "Musician",
+        image: "assets/images/review3.jpg",
+        review:
+        "Cool little website for beginner musicians.",
+    }
+]; 
+
+
+//current review
+let a = 0;
+// total reviews
+let b = reviews.length;
+
 let reviewContainer = document.getElementById("review-container");
 
 let nextBttn= document.getElementById("next");
