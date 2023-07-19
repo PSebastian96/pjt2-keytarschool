@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+
+/* ------------ Navbar styling*/
+
+header {
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 2;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 0%;
+    background: rgba(103, 8, 158, 0.7);
+}
+
+#logo { 
+   font-family: 'Kablammo', cursive;
+   font-size: 30px;
+   font-weight: 700;
+   padding-left: 2rem;
+   color: white;
+}
+
+#logo:hover {
+    color: #68dc64;
+}
+
+#navlist {
+    display: flex;
+    
+}
+
+#navlist a{
+    color: rgb(255, 255, 255);
+    margin-left: 2rem;
+    font-size: 15px;
+    font-weight: 600;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s ease;
+}
+#navlist a:hover {
+    color: rgb(40, 181, 38);
+    border-bottom: 2px solid rgb(40, 181, 38);
+}
+
+#navlist .current {
+    color: rgb(40, 181, 38);
+    border-bottom: 2px solid rgb(40, 181, 38);
+}
+
+#menu-icon {
+    color: white;
+    font-size: 35px;
+    z-index: 3;
+    cursor: pointer;
+    display: none;
+}
+
+/* ------------ footer styling*/
+
+footer {
+    background: rgb(103, 21, 151);;
+    color: azure;
+    text-align: center;
+    font-size: larger;
+    padding: 2rem;
+    height: 5rem;
+}
+
+footer i {
+    position: relative;
+   color: #ffffff;
+}
+
+footer i:hover {
+    color: #68dc64;
+}
