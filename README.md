@@ -177,7 +177,7 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 <img width="373" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/83667bf5-0755-4cb1-8500-3f2558e09a75">
 
-## Chrome Browser Developer Console
+## Chrome Dev-Tools Console
 
 - Chrome Dev console was used to test most of the javascript codes.
  
