@@ -6,7 +6,7 @@ let noteReveal = document.querySelector('#keys-reveal input')
 let audio = new Audio("pianosound/c4.mp3");
 
 const playTune = (key) => {
-    audio.src = `pianosound/${key}.mp3`;
+    audio.src = `assets/piano-sound/${key}.mp3`;
     audio.play();
 }
 
