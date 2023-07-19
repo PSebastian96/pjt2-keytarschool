@@ -124,9 +124,9 @@ On the top-right side the user can adjust the preset settings of the piano, whic
 
 ## W3C Validator
 
-W3C Markup Validator HTML - [https://validator.w3.org]
-W3C Markup Validator CSS - [https://jigsaw.w3.org/css-validator/]
-W3C Markup Validator was used to check and validation of code for HTML and CSS file.
+- W3C Markup Validator HTML - [https://validator.w3.org]
+- W3C Markup Validator CSS - [https://jigsaw.w3.org/css-validator/]
+- W3C Markup Validator was used to check and validation of code for HTML and CSS file.
 
 ### CSS validator results:
 
