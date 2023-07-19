@@ -30,6 +30,21 @@
     <div class="bx bx-menu" id="menu-icon"></div>
 </header>
 
+<!-- Contact Form -->
+<div id="contact-container">
+    <form id="contact-form" onsubmit="return sendMail(this);">
+        <h3 id="form-title">Contact Us</h3>
+        <input type="text" name="name" id="contact-name" placeholder="Full Name" autocomplete="off" required>
+        <input type="email" name="emailaddress" id="contact-mail" placeholder="Email" autocomplete="off" required>
+        <textarea id="message" name="messagesummary" placeholder="How can we help?" rows="4" cols="50"></textarea>
+        <button type="submit" id="contact-btn">Send</button>
+        <div id="msg-container">
+           <div class="success" id="success">Query sent successfully!</div>
+           <div class="failed" id="failed">Fill the form!</div>
+        </div>
+    </form>
+</div>
+
 <!-- footer section -->
 <footer>
     <span>Socials:</span>
