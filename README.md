@@ -182,6 +182,7 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 - Chrome Dev console was used to test most of the javascript codes.
  
 - Testing the metronomes "START"/"STOP" button and click sound:
+image.png
 
 - Testing the alert message if the user tries to get over 6 beats per measure:
 
