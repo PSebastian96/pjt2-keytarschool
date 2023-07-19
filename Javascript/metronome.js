@@ -1,4 +1,4 @@
-import Timer from "Javascript/timer.js"
+import Timer from "./timer.js"
 
 // Tempo section
 const tempoInput = document.getElementById('tempo-input');
