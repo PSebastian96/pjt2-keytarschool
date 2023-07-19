@@ -226,3 +226,43 @@ input::-webkit-inner-spin-button {
     border-bottom-right-radius: 10px;
     user-select: none;
 }
+
+.key-white {
+    position: relative;
+  width: var(--white-key-width);
+  height: var(--white-key-height);
+  border: 1px solid black;
+  box-sizing: border-box;
+  background: #ffffff;
+  border-bottom-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+  cursor: pointer;
+}
+
+.key-black {
+  position: relative;
+  width: var(--black-key-width);
+  height: var(--black-key-height);
+  background: #1e2225;
+  box-sizing: border-box;
+  z-index: 1;
+  border-bottom-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem; 
+  transform: translateX(-50%);
+  cursor: pointer;
+}
+/* hide the white space between the white and black keys*/
+.key-black + .key-white {
+    margin-left: calc(-1 * var(--black-key-width)); 
+  }
+
+/* highlight the keys when they are clicked */
+.key-white:active {
+    box-shadow: inset -5px 5px 20px rgba(0,0,0,0.2);
+    background: linear-gradient( to bottom, #fff 0%, #dedede 100%);
+}
+
+.key-black:active {
+    box-shadow: inset -5px 5px 20px rgba(0,0,0,0.1);
+    background: linear-gradient( to bottom, #000000 0%, #676565 100%);
+}
