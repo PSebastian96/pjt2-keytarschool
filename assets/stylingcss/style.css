@@ -639,3 +639,100 @@ img {
 #accordion-txt .showAnswer p{
     display: block;
 }
+
+/* ------------------ Contact page*/
+
+#contact-container {
+    width: 100%;
+    height: 100vh;
+    background: #820ea2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3rem;
+}
+
+#contact-form {
+    background: #b007b0;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem 2rem;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 20px;
+}
+
+#form-title {
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: #fefefe;
+    padding-bottom: 0.5rem;
+}
+
+#contact-form input {
+    font-size: 1.1rem;
+    margin: 0.3rem 0;
+    padding: 0.8rem;
+    background: #d432e3;
+    color: rgb(84, 246, 63);
+    border-radius: 2rem;
+    border: none;
+}
+
+#contact-form input::placeholder {
+    color: white;
+}
+
+#message {
+    font-size: 1.1rem;
+    margin: 0.3rem 0;
+    padding: 0.8rem;
+    background: #d432e3;
+    color: rgb(84, 246, 63);
+    border-radius: 0.8rem;
+    border: none;
+    resize: none;
+}
+
+#message::placeholder {
+  color: white;
+}
+
+#contact-btn {
+padding: 1rem;
+background: #e55ff1;
+color: white;
+font-size: 1.1rem;
+border-radius: 2rem;
+border-color: white;
+width: 9rem;
+margin: 1.2rem auto 0;
+border: none;
+cursor: pointer;
+}
+
+#msg-container {
+    width: 100%;
+    position: relative;
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.success {
+    font-size: 1.2rem;
+    color: rgb(117, 252, 117);
+    position: absolute;
+    animation: 0.3s linear;
+    display: none;
+}
+
+.failed {
+    font-size: 1.2rem;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    animation: 0.3s linear;
+    display: none;
+}
