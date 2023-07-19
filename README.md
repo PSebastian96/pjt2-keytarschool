@@ -71,8 +71,18 @@ As a frequent user/member I want to have a interactive piano with built in metro
 
 ## Wireframing :
 
-- Diagrams.net [https://app.diagrams.net]
-screenshot here
+### Large screen view : 
+
+<img width="386" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/bd153a54-cf40-4ed2-8108-c0dc96b2ca97">
+<img width="383" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/8a1e1f26-c53f-4a4f-9311-8bebd395624c">
+
+### Tablet view : 
+<img width="382" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/d0ebfab0-dd16-43f2-9f2c-3c8b1ec73d96">
+<img width="383" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/e5f3f80c-4f45-4e02-b723-334e46935a88">
+
+### Phone view :
+<img width="166" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/684175ea-98ad-49b4-adf0-061971559836">
+<img width="164" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/43cf7b9c-105e-4eef-a52c-ab3b3798c364">
 
 ## Site map :
 
