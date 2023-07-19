@@ -86,3 +86,81 @@ footer i {
 footer i:hover {
     color: #68dc64;
 }
+
+/* ------------ landing page styling*/
+
+#hero-container {
+    height: 100%;
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(245.59deg, #7b4d95 0%, #633870 28.53%, #391336 75.52%);
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    gap: 2rem;
+}
+
+section {
+    padding: 0%;
+}
+
+#hero-txt h1 {
+    font-family: 'Kablammo', cursive;
+    text-align: center;
+    font-size: 90px;
+    line-height: 1;
+    color: white;
+    margin: 0 0 45px;
+}
+
+#hero-txt h3 {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    margin-bottom: 10px;
+}
+
+#hero-txt u {
+    text-decoration: underline;
+}
+
+#buttons {
+    position: relative;
+    margin:auto;
+    width: fit-content;
+    align-items: center;
+}
+
+#buttons a{
+    display: inline-block;
+    align-items: center;
+    color: white;
+    background-color: #398b36;
+    border: 1px solid transparent;
+    padding: 12px 30px;
+    margin: 0.3rem;
+    line-height: 1.4;
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 30px;
+    text-transform: uppercase;
+    transition: all 0.35s ease;
+}
+
+#hero-txt a:hover {
+    background: transparent;
+    border: 1px solid rgb(60, 250, 69);
+    transform: translateX(8px);
+}
+
+#hero-img {
+    width: fit-content;
+    height: auto;
+}
+
+img {
+    width: fit-content;
+    height: fit-content;
+}
