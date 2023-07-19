@@ -3,7 +3,7 @@ let volumeSlider = document.querySelector('#volume-slider input');
 let noteReveal = document.querySelector('#keys-reveal input')
 
 // audio source and passing the key the right sound 
-let audio = new Audio("pianosound/c4.mp3");
+let audio = new Audio("assets/piano-sounds/c4.mp3");
 
 const playTune = (key) => {
     audio.src = `assets/piano-sound/${key}.mp3`;
