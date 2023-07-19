@@ -183,9 +183,22 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
  
 - Testing the metronomes "START"/"STOP" button and click sound:
 
+<img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c55a895f-910c-4a54-9e91-a1793bc0f37d">
+
 - Testing the alert message if the user tries to get over 6 beats per measure:
 
+<img width="960" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c8813509-5266-4838-8cea-331a0b997e9f">
+
 - Testing the alert message if the user tries to get over 180 BPM:
+
+<img width="673" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/7429bba2-2599-45e5-8b8e-0ac9df70672c">
+
+- Debugging the metronome : 
+
+<img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/4309d479-2bc7-4c47-878e-626d30f77588">
+
+The problem was a mixture of incorrect syntax and import error from the timer.js to metronome.js, the metronom script could not access the timing/beat from timer.js.
+The solution was to add the correct syntax and connect timer.js with metronome.js by adding the attribute [type = "module"]to the script tag in piano.html file.
 
 ### Further Testing
 - The Website was tested on Google Chrome, Microsoft Edge, Opera and Mozilla browsers.
