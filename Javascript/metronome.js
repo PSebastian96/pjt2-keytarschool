@@ -12,3 +12,7 @@ const decreaseBeats = document.getElementById('decrease-measure');;
 
 // Play - Stop button section
 const playStopBtn = document.getElementById('play-pause');
+
+// audio source of the metronome clicks
+const click1 = new Audio('assets/metronome-sound/click1.wav');
+const click2 = new Audio('assets/metronome-sound/click2.wav');
