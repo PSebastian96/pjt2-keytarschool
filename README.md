@@ -24,7 +24,7 @@ Note * - * the forms on the website have no backend, therefore all the entered d
 
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
-Deployed link - []
+Deployed link - [ https://psebastian96.github.io/pjt2-keytarschool/]
 
 # User Experience (UX)
 
@@ -183,9 +183,37 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
  
 - Testing the metronomes "START"/"STOP" button and click sound:
 
+<img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c55a895f-910c-4a54-9e91-a1793bc0f37d">
+
 - Testing the alert message if the user tries to get over 6 beats per measure:
 
+<img width="960" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c8813509-5266-4838-8cea-331a0b997e9f">
+
 - Testing the alert message if the user tries to get over 180 BPM:
+
+<img width="673" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/7429bba2-2599-45e5-8b8e-0ac9df70672c">
+
+- Testing the show/hide notes button :
+1. Visible (default)
+<img width="873" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/5e457997-080c-42b6-8a37-e1d5718ef594">
+
+2. Hidden
+<img width="851" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/f7750ed2-5476-4834-9040-7137fc923530">
+
+- Testing the keys if the script makes them play on click :
+
+<img width="857" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/98e95ba0-d51c-4125-9370-817eca3bcbb4">
+
+### Debugging the metronome : 
+
+<img width="946" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/4309d479-2bc7-4c47-878e-626d30f77588">
+
+- The problem was a mixture of incorrect syntax and import error from the timer.js to metronome.js, the metronome script could not access the timing/beat from timer.js. The solution was to add the correct syntax and connect timer.js with metronome.js by adding the attribute [type = "module"]to the script tag in piano.html file.
+
+### Known bugs :
+
+- Opera browser is not rendering the css property [accent-color] on the volume input range, thus making it look dull in the browser, while chrome loads it with no issues.
+- Depending on the browser loading speed, sometimes the piano sound is delayed after a key is pressed.
 
 ### Further Testing
 - The Website was tested on Google Chrome, Microsoft Edge, Opera and Mozilla browsers.
