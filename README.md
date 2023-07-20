@@ -278,6 +278,8 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 ## Code sources and inspirations :
 
+- w3school.com [https://www.w3schools.com]
+
 -  codementor.io [https://www.codementor.io/@andrzejgorgonag/let-s-write-a-piano-chord-visualization-application-a-vanilla-js-beginner-friendly-tutorial-part-ii-1trq96zr6o]
 
 - codepen.io [https://codepen.io/gabrielcarol/pen/rGeEbY]
