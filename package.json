@@ -1,0 +1,22 @@
+{
+  "name": "pjt2-keytarschool",
+  "version": "1.0.0",
+  "description": "Second Milestone Project - Code Institute",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSebastian96/pjt2-keytarschool.git#keytar-test"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSebastian96/pjt2-keytarschool/issues"
+  },
+  "homepage": "https://github.com/PSebastian96/pjt2-keytarschool/tree/keytar-test#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
