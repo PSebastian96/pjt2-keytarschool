@@ -24,7 +24,7 @@ Note * - * the forms on the website have no backend, therefore all the entered d
 
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
-Deployed link - []
+Deployed link - [ https://psebastian96.github.io/pjt2-keytarschool/]
 
 # User Experience (UX)
 
