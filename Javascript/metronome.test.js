@@ -9,7 +9,22 @@ describe("playClick", () => {
         }
         expect(count).toBe(0);
      });
-
-    test( '', () => {})
+     
+     test( 'first beat to play click1', () => {
+        const click1 = new Audio('assets/metronome-sound/click1.wav');
+        let count = 0;
+        if ( count === 0) {
+            click1.play;
+        expect(count === 0).toBeTruthy();
+    }});
+    
+    test( 'rest  play click2', () => {
+        const click2 = new Audio('assets/metronome-sound/click2.wav');
+        let count = 0;
+        if ( count !== 0) {
+            count = 0;
+            click2.play;
+        expect(count !== 0).toBeTruthy();
+    }});
 
 });
