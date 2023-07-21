@@ -215,7 +215,14 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 - Jest is a JavaScript testing framework [https://jestjs.io]
 - Official documentation [https://jestjs.io/docs/getting-started]
 
+### Counting should be 0, when a new round of beat is starting - restart the count.
+<img width="952" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/44b874dc-8b64-4ae9-af09-e784197d9443">
 
+### 1st count to start the playing the click1 sound.
+<img width="960" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/18164357-ff97-42b3-8f6b-b7f61abf8376">
+
+### rest  of the count to start the playing the click2 sound.
+<img width="956" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/9caf065b-0e42-43ae-83c5-a36651ba0ff3">
 
 ### Known bugs :
 
