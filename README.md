@@ -262,7 +262,7 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 1. Github - (https://github.com)
     - Was used to store the repository and files for the project.
 
-2. Gitpod - (https://www.gitpod.io)
+2.  Codeanywhere - (https://codeanywhere.com)
     - was used to code and edit code for the project.
 
 # Content sources 
