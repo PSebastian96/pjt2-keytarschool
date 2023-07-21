@@ -210,6 +210,13 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 - The problem was a mixture of incorrect syntax and import error from the timer.js to metronome.js, the metronome script could not access the timing/beat from timer.js. The solution was to add the correct syntax and connect timer.js with metronome.js by adding the attribute [type = "module"]to the script tag in piano.html file.
 
+## Jest
+
+- Jest is a JavaScript testing framework [https://jestjs.io]
+- Official documentation [https://jestjs.io/docs/getting-started]
+
+
+
 ### Known bugs :
 
 - Opera browser is not rendering the css property [accent-color] on the volume input range, thus making it look dull in the browser, while chrome loads it with no issues.
