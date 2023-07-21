@@ -94,6 +94,9 @@ function playClick() {
         click2.currentTime = 0;
     }
     count++;
+    
 };
 //metronome - 60000 / bpm will give the timer in milliseconds, since the timer uses millisecond value
 const metronome = new Timer (playClick, 60000 / bpm, {immediate : true});
+
+module.exports = {playClick}
