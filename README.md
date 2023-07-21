@@ -21,6 +21,7 @@ This project is represening an online school for music and piano practice, named
 The projects objective is to make a front end - interactive website with HTML5, CSS3 and JS(ES6) with a focus on making the website mobile phone user friendly.
 
 Note * - * the forms on the website have no backend, therefore all the entered data (name,email) won't be stored and actual registration is not possible. *
+Note * - * as mentioned, there is no backend therefore the subscriptions won't work either, instead a modal shows up that leads to registration page.*
 
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
