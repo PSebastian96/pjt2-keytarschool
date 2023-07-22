@@ -878,6 +878,17 @@ cursor: pointer;
   /*------------------------------------------ Responsivness*/
 /*------------------------- Large screens */
 
+@media (min-width: 1536px) and (max-width: 2672px) {
+  
+    #navlist{
+      padding-right: 1.5rem;
+    }
+
+    #logo {
+        padding-left: 1.1rem;
+    }
+}
+
 @media (max-width: 1000px) {
     section {
         display: block;
@@ -1097,6 +1108,10 @@ cursor: pointer;
         height: max-content;
         width: 100%;
     }
+
+    #logo {
+        padding-left: 1rem;
+    }
 }
 
 @media screen and (max-width: 360px) {
@@ -1108,11 +1123,7 @@ cursor: pointer;
 }
 
 @media (min-width: 375px) {
-    
-    #logo {
-        padding: 0;
-    }
-    
+        
     #hero-txt #sub-txt{
       padding: 0;
     }
