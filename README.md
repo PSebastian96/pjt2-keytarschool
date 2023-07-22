@@ -21,6 +21,7 @@ This project is represening an online school for music and piano practice, named
 The projects objective is to make a front end - interactive website with HTML5, CSS3 and JS(ES6) with a focus on making the website mobile phone user friendly.
 
 Note * - * the forms on the website have no backend, therefore all the entered data (name,email) won't be stored and actual registration is not possible. *
+Note * - * as mentioned, there is no backend therefore the subscriptions won't work either, instead a modal shows up that leads to registration page.*
 
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
@@ -220,8 +221,15 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 - Jest is a JavaScript testing framework [https://jestjs.io]
 - Official documentation [https://jestjs.io/docs/getting-started]
+### Testing the playClick() function
+### Counting should be 0, when a new round of beat is starting - restart the count.
+<img width="952" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/44b874dc-8b64-4ae9-af09-e784197d9443">
 
+### - 1st count to start playing the click1 sound.
+<img width="960" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/18164357-ff97-42b3-8f6b-b7f61abf8376">
 
+### - Rest  of the count to start the playing the click2 sound.
+<img width="956" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/9caf065b-0e42-43ae-83c5-a36651ba0ff3">
 
 ### Known bugs :
 
@@ -261,7 +269,7 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 1. Github - (https://github.com)
     - Was used to store the repository and files for the project.
 
-2. Gitpod - (https://www.gitpod.io)
+2.  Codeanywhere - (https://codeanywhere.com)
     - was used to code and edit code for the project.
 
 # Content sources 
