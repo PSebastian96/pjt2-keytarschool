@@ -40,6 +40,8 @@ Visitors of the website can register and become a member, get lessons, play musi
 
 The website is a presentation a fictional online music school that teaches the skills to play the key based instruments such as piano/synthesizer/keytar.
 
+## User stories
+
 ### First time visitor goals :
 
 As a first time visitor, I want information about the features of the website, pricing of subscription and what is included in the product package and to persuade people of interest in music to join the website and  help them develop a new skill.
@@ -65,7 +67,11 @@ which makes it easy to navigate through the pages of the site.
 
 ### Frequent user goals :
 
-As a frequent user/member I want to have a interactive piano with built in metronome so practice is possible, learning the notes is easy, with the function to hide and show notes on the piano the user can practice the name and location of the notes on the instrument.
+- As a frequent user/member I want to have a interactive piano with built in metronome so practice is possible, learning the notes is easy, with the function to hide and show notes on the piano the user can practice the name and location of the notes on the instrument.
+
+- The first time user has access to a Frequently Asked Questions (F.A.Q.) section where gathering more information is possible before making a decision to join the online school.
+
+- Goal to keep the user returning 
 
 # Design
 
