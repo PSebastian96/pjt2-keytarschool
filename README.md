@@ -55,7 +55,7 @@ which makes it easy to navigate through the pages of the site.
 
 - On the index page, the first time user has a review section, where existing members share their experience about the site, which further makes the product transparent and should further encourage registration.
 
-- The first time user can send a mail/message or further questions to the owner of the school by filling out the form on the "Contact" page. 
+- The first time user can send a mail/message or further questions to the owner of the      school by filling out the form on the "Contact" page. 
   The user will be notified by an auto-reply email that their query has been sent and someone from the team will contact the person ASAP.
   This form can be used by existing members as well to contact customer service.
 
@@ -74,11 +74,12 @@ which makes it easy to navigate through the pages of the site.
 - Goal to keep the user returning 
 to the website would be the different type subscription tiers. Depending on the users subscription package the following would help to keep the user engaged :
 
-- Tier 1
+- Free account - the free account only lets the user to use the piano and metronome.
 
-- Tier 2
+- Tier 2 - the advance - pro account would let the user have access to the above and gives extra options like live lessons with a tutor. 
+ The Keytar club would be a community where the students can connect to each other and start their musical journeys together or as a networking environment for students/tutors.
 
-- Tier 3
+- Tier 3 - the business - ultra account is designed for schools and independent teachers/schools that would like you use these contents and services as an adition to their own services.
 
 # Design
 
@@ -186,7 +187,7 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 
 <img width="367" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/dd037cef-a637-4c09-bdd8-469fa8527ee4">
 
-5.login.html
+5. login.html
 
 <img width="373" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/83667bf5-0755-4cb1-8500-3f2558e09a75">
 
