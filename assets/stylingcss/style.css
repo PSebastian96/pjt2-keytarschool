@@ -746,6 +746,7 @@ cursor: pointer;
     justify-content: center;
     background: #820ea2;
     padding-top: 8rem;
+    padding-bottom: 5rem;
   }
   .log-reg-wrapper {
     position: relative;
@@ -1070,7 +1071,7 @@ cursor: pointer;
         padding-bottom: 70px;
     }
     .log-reg-container {
-        padding: 2rem 0rem 2rem 0rem;
+        padding: 5rem 0rem 5rem 0rem;
       }
 } 
 
@@ -1136,7 +1137,7 @@ cursor: pointer;
 }
 
 .log-reg-container {
-    padding-top: 5rem;
+    padding-top: 8rem;
 }
 
 /*------------------------- Galaxy Fold */
