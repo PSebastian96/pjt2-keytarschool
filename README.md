@@ -71,7 +71,8 @@ which makes it easy to navigate through the pages of the site.
 
 - The first time user has access to a Frequently Asked Questions (F.A.Q.) section where gathering more information is possible before making a decision to join the online school.
 
-- Goal to keep the users returning to the website would be the different type subscription tiers. Depending on the users subscription package the following would help to keep the user engaged :
+- Goal to keep the user returning 
+to the website would be the different type subscription tiers. Depending on the users subscription package the following would help to keep the user engaged :
 
 - Tier 1
 
@@ -83,7 +84,7 @@ which makes it easy to navigate through the pages of the site.
 
 ## Abstract :
 
-While designing the website, I had in mind 2 colours Purple and Green, as these colours make the Hero image "Keytar Girl".
+While designing the website, I had in mind 2 colours Purple and Green, as these colours maske the Hero image "Keytar Girl".
 The website revolves around the combination of these colours and their different shades.
 
 According to some studies the purple is associated with the following : promotes harmony of the mind and the emotions, contributing to mental balance and stability, peace of mind, a link between the spiritual and the physical worlds, between thought and activity. 
@@ -227,7 +228,11 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 - Jest is a JavaScript testing framework [https://jestjs.io]
 - Official documentation [https://jestjs.io/docs/getting-started]
 
+1.
 
+2.
+
+3.
 
 ### Known bugs :
 
