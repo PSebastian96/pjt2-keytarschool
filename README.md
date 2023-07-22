@@ -228,11 +228,14 @@ Lighthouse is an open-source, automated tool for improving the performance, qual
 - Jest is a JavaScript testing framework [https://jestjs.io]
 - Official documentation [https://jestjs.io/docs/getting-started]
 
-1.
+1. Testing the change of count of the measure, when the beat is changed, the metronome adjusts and plays a new measure, count 0 is the first beat.
+<img width="944" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c6d6542e-5031-4756-9ae5-5cadf510bd33">
 
-2.
+2. Testing tbe first count, the metronome should play click1 sound.
+<img width="953" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/c85c660f-6a0b-44ce-b6e7-2f66dd4e7a9e">
 
-3.
+3. Testing the rest of the count to play the click2 sound.
+<img width="965" alt="image" src="https://github.com/PSebastian96/pjt2-keytarschool/assets/123810890/fa57c565-54b5-453c-817a-8ad54a9d9607">
 
 ### Known bugs :
 
