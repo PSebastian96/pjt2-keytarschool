@@ -22,6 +22,8 @@ The projects objective is to make a front end - interactive website with HTML5, 
 
 Note * - * the forms on the website have no backend, therefore all the entered data (name,email) won't be stored and actual registration is not possible. *
 
+** Update - As of making this project, it was a front-end based project. After tutor assessment and grading, I have added a login page and will update this project in near future with a backend in order for the user to access the piano, loging in/registering will be required **
+
 Repository link - [https://github.com/PSebastian96/pjt2-keytarschool]
 
 Deployed link - [ https://psebastian96.github.io/pjt2-keytarschool/]
